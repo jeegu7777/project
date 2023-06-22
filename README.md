@@ -24,5 +24,5 @@ Microsoft Excel
 Microsoft Power Bi.
 
 LINKS
-
 Git hub:
+https://github.com/jeegu7777/project/blob/main/Amazon%20project%20power%20Bi.pbix
